@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently a student of @42Paris
+- 🌱 I’m currently learning Rust Programming Language and Embedded Devices (Arduino Due)
+- 📫 How to reach me: cyprien.augier@protonmail.com
