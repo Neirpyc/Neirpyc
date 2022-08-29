@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently a student of @42Paris
+- 🔭 I’m currently a Tech Lead @figarocms
 - 🌱 I’m currently learning Rust Programming Language and Embedded Devices (Arduino Due)
 - 📫 How to reach me: cyprien.augier@protonmail.com
